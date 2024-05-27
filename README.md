@@ -50,6 +50,8 @@
 - Test the responsiveness thoroughly on various devices & browsers.
 - For the assets, you may inspect the respective images directly in the mockup link provided below.
 
-  [Website Mockup](https://preview.themeforest.net/item/metize-landing-page-wordpress-theme/full_screen_preview/52251111)
+## Mockup & Assets
+
+[Website Mockup](https://preview.themeforest.net/item/metize-landing-page-wordpress-theme/full_screen_preview/52251111)
 
 Good luck, and happy coding!
