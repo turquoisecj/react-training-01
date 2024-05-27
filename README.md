@@ -50,24 +50,6 @@ Here's an updated version of your `README.md` with these considerations:
 6. **Make it responsive**  
    Ensure the website is responsive and looks good on all screen sizes.
 
-## Website Pages
-
-### Home Page
-
-![Home Page](website-img/Home-Page.png)
-
-### About Page
-
-![About Page](website-img/About-Us.png)
-
-### Service Page
-
-![Service Page](website-img/Services-Page.png)
-
-### Contact Page
-
-![Contact Page](website-img/Contact-Us-Page.png)
-
 ## Notes
 
 - Pay close attention to the design and make sure it matches the mockup as closely as possible.
