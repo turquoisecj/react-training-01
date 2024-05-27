@@ -7,6 +7,8 @@
 3. Install the project dependencies.
 4. Start developing the pages as per the instructions.
 
+Good luck, and happy coding!
+
 ## Instructions
 
 1. Clone the repository and create a new branch
@@ -53,5 +55,3 @@
 ## Mockup & Assets
 
 [Website Mockup](https://preview.themeforest.net/item/metize-landing-page-wordpress-theme/full_screen_preview/52251111)
-
-Good luck, and happy coding!
