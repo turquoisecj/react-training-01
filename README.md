@@ -1,30 +1,14 @@
-The issue with the images not showing up in your GitHub `README.md` file is likely due to the paths to the images. GitHub's Markdown rendering requires the image paths to be correct and relative to the repository.
-
-Here are a few things to check:
-
-1. **Correct Paths**: Ensure that the image paths are correct relative to the location of the `README.md` file. For example, if the `README.md` file is in the root directory and the images are in a folder called `website img`, the paths should be relative to the root.
-
-2. **URL Encoding**: Spaces in file or directory names should be URL encoded as `%20`. However, it's often better to avoid spaces in filenames and directories. Consider renaming the directory to avoid spaces, e.g., `website-img`.
-
-3. **Case Sensitivity**: Ensure that the filenames and paths match the exact case (uppercase/lowercase) as GitHub is case-sensitive.
-
-Here's an updated version of your `README.md` with these considerations:
-
-````markdown
 # React Training Project
 
 ## Instructions
 
-1. **Clone the repository and create a new branch**  
+1. Clone the repository and create a new branch
    Create a new branch and name it `[surname-react-training01]`  
    (example: `doe-react-training01`)
 
-   ```sh
    git clone [repository-url]
    cd [repository-directory]
    git checkout -b [surname-react-training01]
-   ```
-````
 
 2. **Install the node_modules**  
    Run the following command to install the necessary dependencies:
