@@ -1,5 +1,12 @@
 # React Training Project
 
+## Getting Started
+
+1. Clone the repository and navigate to the project directory.
+2. Create a new branch with your surname.
+3. Install the project dependencies.
+4. Start developing the pages as per the instructions.
+
 ## Instructions
 
 1. Clone the repository and create a new branch
@@ -45,15 +52,4 @@
 
   [Website Mockup](https://preview.themeforest.net/item/metize-landing-page-wordpress-theme/full_screen_preview/52251111)
 
-## Getting Started
-
-1. Clone the repository and navigate to the project directory.
-2. Create a new branch with your surname.
-3. Install the project dependencies.
-4. Start developing the pages as per the instructions.
-
 Good luck, and happy coding!
-
-```
-
-```
