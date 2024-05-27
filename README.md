@@ -12,16 +12,14 @@
    git checkout -b [surname-react-training01]
    ```
 
-````
-
-2. **Install the node_modules**
+2. Install the node_modules
    Run the following command to install the necessary dependencies:
 
    ```sh
    npm install
    ```
 
-3. **Create the mockup website**
+3. Create the mockup website
    Refer to the provided link for the mockup and create the following pages:
 
    - Home Page
@@ -29,13 +27,13 @@
    - Services Page
    - Contact Page
 
-4. **Use any CSS library**
+4. Use any CSS library
    You may use any CSS library such as Tailwind, Bootstrap, or Pure CSS.
 
-5. **Implement responsive breakpoints**
+5. Implement responsive breakpoints
    Ensure the best breakpoints for each screen size (Desktop, Mobile, Tablet).
 
-6. **Make it responsive**
+6. Make it responsive
    Ensure the website is responsive and looks good on all screen sizes.
 
 ## Notes
@@ -55,4 +53,7 @@
 4. Start developing the pages as per the instructions.
 
 Good luck, and happy coding!
-````
+
+```
+
+```
