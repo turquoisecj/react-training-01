@@ -49,6 +49,7 @@ Good luck, and happy coding!
 
 - Pay close attention to the design and make sure it matches the mockup as closely as possible.
 - Focus on creating a clean, user-friendly interface.
+- Be sure to implement the best practices and optimization when developing.
 - Test the responsiveness thoroughly on various devices & browsers.
 - For the assets, you may inspect the respective images directly in the mockup link provided below.
 
